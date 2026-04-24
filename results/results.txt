@@ -1,0 +1,5 @@
+
+========== FINAL RESULTS ==========
+Coarse   -> Dice: 0.9341 | IoU: 0.8780
+MaskCN   -> Dice: 0.5904 | IoU: 0.4518
+Enhanced -> Dice: 0.9636 | IoU: 0.9301
